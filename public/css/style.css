@@ -1,0 +1,45 @@
+.box {
+    border: 1px solid #000000;
+    color: #000000;
+    padding: 0px;
+    position: absolute;
+    border-radius: 60px 60px 60px 60px;
+    cursor: crosshair;
+    height: 10px;
+    width: 10px;
+    z-index: 4;"
+}
+
+.black {
+    background-color: gray;
+}
+
+.white {
+    background-color: white;
+}
+
+.content {
+    padding: 1em;
+}
+
+#pieces {
+    border: 1px solid black;
+    width: 400px;
+    height: 200px;
+    box-shadow: 0 0 3px gray;
+    margin: 0 0 10px 10px;
+}
+
+#mill {
+    box-shadow: 0 0 3px gray;
+    height: auto;
+    width: 400px;
+    margin: 0 0 10px 10px;
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+#settings {
+    margin-left: 10px;
+}
+

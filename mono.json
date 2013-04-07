@@ -31,7 +31,7 @@
             }
         },
         "container": {
-            "module": "github/IonicaBizau/shorter-url-module/dev",
+            "module": "github/IonicaBizau/shorter-url-mono-module/dev",
             "roles": [0],
             "config": {
                 "html": "html/url.html",

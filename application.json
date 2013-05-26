@@ -19,7 +19,7 @@
     ],
     "miids": {
         "layout": {
-            "module": "github/adioo/layout/v0.0.4",
+            "module": "github/jillix/layout/v0.1.1",
             "roles": [0],
             "config": {
                 "html": "html/layout.html",

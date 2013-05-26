@@ -22,7 +22,7 @@
             "module": "github/jillix/layout/v0.1.1",
             "roles": [0],
             "config": {
-                "html": "html/layout.html",
+                "html": "/html/layout.html",
                 "css": ["bootstrap/css/bootstrap.css"],
                 "title": "Shorter URL",
                 "modules": {
@@ -34,8 +34,8 @@
             "module": "github/IonicaBizau/shorter-url-mono-module/dev",
             "roles": [0],
             "config": {
-                "html": "html/url.html",
-                "css": ["css/style.css"]
+                "html": "/html/url.html",
+                "css": ["/css/style.css"]
             },
             "operations": {
                 "insert": {

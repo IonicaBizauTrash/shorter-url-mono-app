@@ -1,4 +1,4 @@
 Shorter URL
 ===========
 
-Allows you to convert a looong url to a shorter one.
+Allows you to convert a long url to a shorter one.
